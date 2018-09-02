@@ -35,7 +35,8 @@ python image_rescaler.py
 
 6. compute degree centrality
 ```
-degree_centrality.py
+python degree_centrality.py
+python cleaner_location_to_degree.py
 ```
 
 ## train the model
