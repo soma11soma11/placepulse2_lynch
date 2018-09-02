@@ -33,6 +33,11 @@ python convert_winner_binary.py
 python image_rescaler.py
 ```
 
+6. compute degree centrality
+```
+degree_centrality.py
+```
+
 ## train the model
 ```
 python lynch_rss_cnn.py
